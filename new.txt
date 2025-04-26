@@ -1,6 +1,1 @@
-this content should be changed
-<<<<<<< HEAD
-
-=======
-these changes are made online
->>>>>>> 969600d122055447d8a42ba9923dd090c0a37c48
+"changes in offline" 
